@@ -1,10 +1,10 @@
 {
-    "name": "喵喵电子书同步器",
+    "name": "HyperBox同步器",
     "icon": "icon.png",
     "version": "1.0",
-    "description": "在AstroBox中同步害怕播客四",
+    "description": "在AstroBox中同步害怕播客四歌词",
     "author": "lesetong",
-    "website": "https://www.bandbbs.cn/members/114920",
+    "website": "https://hb.himooo.top/",
     "entry": "main.js",
     "api_level": 1,
     "permissions": [
