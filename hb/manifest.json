@@ -3,7 +3,7 @@
     "icon": "icon.png",
     "version": "1.0",
     "description": "在AstroBox中同步害怕播客四歌词",
-    "author": "lesetong",
+    "author": "lesetong&Charlie_Q",
     "website": "https://hb.himooo.top/",
     "entry": "main.js",
     "api_level": 1,
